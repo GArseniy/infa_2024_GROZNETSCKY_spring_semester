@@ -1,0 +1,3 @@
+/mnt/c/Users/Arseny/Documents/Prog/Programming_Systems/Seminars/Seminar_2/cmake-build-debug/CMakeFiles/Seminar_2.dir
+/mnt/c/Users/Arseny/Documents/Prog/Programming_Systems/Seminars/Seminar_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Arseny/Documents/Prog/Programming_Systems/Seminars/Seminar_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

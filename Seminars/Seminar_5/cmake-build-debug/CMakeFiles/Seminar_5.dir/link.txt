@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Seminar_5.dir/1.cpp.o -o Seminar_5 
